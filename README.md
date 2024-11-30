@@ -13,3 +13,11 @@ The model consists of several components:
 <p align="center">
     <img src="https://i.imgur.com/nenSomS.png" alt="Seq2Seq Model Visualization" width="900"/>
 </p>
+
+## 🛠 Installation & Setup
+
+1. **Clone the repository**:
+  ```bash
+  git clone https://github.com/your-username/probabilistic-seq2seq.git
+  cd probabilistic-seq2seq
+  ```
